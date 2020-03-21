@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kingdom</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://vagrant2046.github.io/"/>
+  <updated>2020-03-21T11:42:41.925Z</updated>
+  <id>https://vagrant2046.github.io/</id>
+  
+  <author>
+    <name>king</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="https://vagrant2046.github.io/2020/03/21/my-first-post/"/>
+    <id>https://vagrant2046.github.io/2020/03/21/my-first-post/</id>
+    <published>2020-03-21T11:42:40.000Z</published>
+    <updated>2020-03-21T11:42:41.925Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;hello-world！&quot;&gt;&lt;a href=&quot;#hello-world！&quot; class=&quot;headerlink&quot; title=&quot;hello world！&quot;&gt;&lt;/a&gt;hello
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
