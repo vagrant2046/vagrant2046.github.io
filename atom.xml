@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://vagrant2046.github.io/"/>
-  <updated>2020-03-21T13:55:35.091Z</updated>
+  <updated>2020-03-21T11:42:41.925Z</updated>
   <id>https://vagrant2046.github.io/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>demo</title>
-    <link href="https://vagrant2046.github.io/2020/03/21/demo/"/>
-    <id>https://vagrant2046.github.io/2020/03/21/demo/</id>
-    <published>2020-03-21T13:57:05.999Z</published>
-    <updated>2020-03-21T13:55:35.091Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome&quot;&gt;&lt;/a&gt;Welcome&lt;/h1&gt;&lt;p&gt;Thank you for choosing &lt;strong&gt;Typora&lt;/strong&gt;.
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>hello world</title>
