@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>test</title>
+    <url>/2020/03/21/test/</url>
+    <content><![CDATA[<h1 id="是是是"><a href="#是是是" class="headerlink" title="是是是"></a>是是是</h1>]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>33</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hello world</title>
     <url>/2020/03/21/my-first-post/</url>
     <content><![CDATA[<h1 id="hello-world！"><a href="#hello-world！" class="headerlink" title="hello world！"></a>hello world！</h1>]]></content>
