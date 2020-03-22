@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kingdom</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://vagrant2046.github.io/"/>
+  <updated>2020-03-22T04:07:07.543Z</updated>
+  <id>https://vagrant2046.github.io/</id>
+  
+  <author>
+    <name>king</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>helloworld</title>
+    <link href="https://vagrant2046.github.io/2020/03/22/helloworld/"/>
+    <id>https://vagrant2046.github.io/2020/03/22/helloworld/</id>
+    <published>2020-03-22T04:04:57.000Z</published>
+    <updated>2020-03-22T04:07:07.543Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World&quot;&gt;&lt;/a&gt;Hello World&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt; 这是我第一篇博客，技术栈 hexo +
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://vagrant2046.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="生活" scheme="https://vagrant2046.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
