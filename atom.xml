@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://vagrant2046.github.io/"/>
-  <updated>2020-03-22T04:07:07.543Z</updated>
+  <updated>2020-03-22T08:23:17.700Z</updated>
   <id>https://vagrant2046.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>helloworld</title>
-    <link href="https://vagrant2046.github.io/2020/03/22/helloworld/"/>
-    <id>https://vagrant2046.github.io/2020/03/22/helloworld/</id>
+    <link href="https://vagrant2046.github.io/2020/03/22/about/"/>
+    <id>https://vagrant2046.github.io/2020/03/22/about/</id>
     <published>2020-03-22T04:04:57.000Z</published>
-    <updated>2020-03-22T04:07:07.543Z</updated>
+    <updated>2020-03-22T08:23:17.700Z</updated>
     
     <summary type="html">
     
@@ -29,18 +29,18 @@
       
         
         
-          &lt;h1 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World&quot;&gt;&lt;/a&gt;Hello World&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt; 这是我第一篇博客，技术栈 hexo +
+          &lt;h1 id=&quot;About-Me&quot;&gt;&lt;a href=&quot;#About-Me&quot; class=&quot;headerlink&quot; title=&quot;About Me&quot;&gt;&lt;/a&gt;About Me&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt; A Coder, live in JiaXing,
         
       
     
     </summary>
     
     
-      <category term="技术" scheme="https://vagrant2046.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="生活" scheme="https://vagrant2046.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="生活" scheme="https://vagrant2046.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="关于我" scheme="https://vagrant2046.github.io/tags/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
     
   </entry>
   

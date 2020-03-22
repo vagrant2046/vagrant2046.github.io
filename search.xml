@@ -2,16 +2,23 @@
 <search>
   <entry>
     <title>helloworld</title>
-    <url>/2020/03/22/helloworld/</url>
-    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><blockquote>
-<p> 这是我第一篇博客，技术栈 hexo + github page + Typora</p>
+    <url>/2020/03/22/about/</url>
+    <content><![CDATA[<h1 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h1><blockquote>
+<p> A Coder, live in JiaXing, China.</p>
 </blockquote>
+<ul>
+<li><p>现居：浙江嘉兴</p>
+</li>
+<li><p>GitHub：<a href="'https://github.com/vagrant2046'">vagrant2046</a></p>
+</li>
+</ul>
+<p><img src="https://i.loli.net/2020/03/22/yTgJYW1pHlitK79.jpg" alt=""></p>
 ]]></content>
       <categories>
-        <category>技术</category>
+        <category>生活</category>
       </categories>
       <tags>
-        <tag>生活</tag>
+        <tag>关于我</tag>
       </tags>
   </entry>
 </search>
