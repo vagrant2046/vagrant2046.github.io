@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://vagrant2046.github.io/"/>
-  <updated>2020-03-22T08:23:17.700Z</updated>
+  <updated>2020-03-22T08:25:56.918Z</updated>
   <id>https://vagrant2046.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>helloworld</title>
+    <title>About Me</title>
     <link href="https://vagrant2046.github.io/2020/03/22/about/"/>
     <id>https://vagrant2046.github.io/2020/03/22/about/</id>
     <published>2020-03-22T04:04:57.000Z</published>
-    <updated>2020-03-22T08:23:17.700Z</updated>
+    <updated>2020-03-22T08:25:56.918Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,13 @@
       
         
         
-          &lt;h1 id=&quot;About-Me&quot;&gt;&lt;a href=&quot;#About-Me&quot; class=&quot;headerlink&quot; title=&quot;About Me&quot;&gt;&lt;/a&gt;About Me&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt; A Coder, live in JiaXing,
+          &lt;blockquote&gt;
+&lt;p&gt; A Coder, live in JiaXing, China.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;现居：浙江嘉兴&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;GitHub：&lt;a
         
       
     
