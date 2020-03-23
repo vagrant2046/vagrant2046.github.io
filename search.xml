@@ -1,6 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>hexo + github page 部署博客</title>
+    <url>/2020/03/22/hexo-+-github-page-%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p><strong>1.部署博客前的准备工作</strong></p>
+<ol>
+<li>安装 <a href="https://nodejs.org/" target="_blank" rel="noopener">Node.js</a> </li>
+<li>安装 <a href="https://git-scm.com/" target="_blank" rel="noopener">Git</a></li>
+<li>注册 <a href="https://github.com/" target="_blank" rel="noopener">Github</a></li>
+</ol>
+<p><strong>2.Hexo的安装及初始化</strong></p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">hexo init blog</span><br><span class="line">cd blog</span><br><span class="line">npm install</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+
+<p>此时你可以通过 <strong>localhost:4000</strong> 访问本地的Hexo博客了</p>
+<p><strong>3.发布一篇博客到Github上</strong></p>
+<ol>
+<li>Github创建一个新的Repository，Repository name 请填写Owner一样的名字，勾选 Initialize this repository with a README 其他默认即可</li>
+</ol>
+<ol start="2">
+<li>获取Repository的Clone链接如：<a href="https://github.com/vagrant2046/vagrant2046.github.io.git" target="_blank" rel="noopener">https://github.com/vagrant2046/vagrant2046.github.io.git</a></li>
+</ol>
+<ol start="3">
+<li><p>打开 blog/_config.yml 文件配置</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repository:</span> <span class="string">https://github.com/vagrant2046/vagrant2046.github.io.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">master</span></span><br></pre></td></tr></table></figure>
+
+
+
+</li>
+</ol>
+<p> 4.安装 hexo-deployer-git </p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+
+
+
+<p>5.选择自己喜欢的主题 以 <a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank" rel="noopener">ayer</a> 主题为例，下载并配置好主题</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/Shen-Yu/hexo-theme-ayer.git themes/ayer</span><br></pre></td></tr></table></figure>
+
+
+
+<p>6.生产部署</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>
+
+
+
+<p><strong>4.可以访问自己的博客</strong></p>
+<p><a href="https://www.wikiking.cn/" target="_blank" rel="noopener">我的博客</a></p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>About Me</title>
     <url>/2020/03/22/about/</url>
     <content><![CDATA[<blockquote>

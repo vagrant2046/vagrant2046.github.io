@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://vagrant2046.github.io/"/>
-  <updated>2020-03-22T08:28:54.490Z</updated>
+  <updated>2020-03-23T14:15:53.715Z</updated>
   <id>https://vagrant2046.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo + github page 部署博客</title>
+    <link href="https://vagrant2046.github.io/2020/03/22/hexo-+-github-page-%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://vagrant2046.github.io/2020/03/22/hexo-+-github-page-%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-03-22T14:44:08.000Z</published>
+    <updated>2020-03-23T14:15:53.715Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;1.部署博客前的准备工作&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;安装 &lt;a href=&quot;https://nodejs.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Node.js&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;安装 &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://vagrant2046.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="杂" scheme="https://vagrant2046.github.io/tags/%E6%9D%82/"/>
+    
+  </entry>
   
   <entry>
     <title>About Me</title>
