@@ -123,30 +123,26 @@
 <li>获取Repository的Clone链接如：<a href="https://github.com/vagrant2046/vagrant2046.github.io.git" target="_blank" rel="noopener">https://github.com/vagrant2046/vagrant2046.github.io.git</a></li>
 </ol>
 <ol start="3">
-<li><p>打开 blog/_config.yml 文件配置</p>
-<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repository:</span> <span class="string">https://github.com/vagrant2046/vagrant2046.github.io.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">master</span></span><br></pre></td></tr></table></figure>
+<li>打开 blog/_config.yml 文件配置</li>
+</ol>
+   <figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"> <span class="attr">deploy:</span></span><br><span class="line">   <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">   <span class="attr">repository:</span> <span class="string">https://github.com/vagrant2046/vagrant2046.github.io.git</span></span><br><span class="line"><span class="attr">branch:</span> <span class="string">master</span></span><br></pre></td></tr></table></figure>
 
-
-
+<ol start="4">
+<li><p>安装 hexo-deployer-git </p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>选择自己喜欢的主题 以 <a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank" rel="noopener">ayer</a> 主题为例，下载并配置好主题</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone https://github.com/Shen-Yu/hexo-theme-ayer.git themes/ayer</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>生产部署</p>
 </li>
 </ol>
-<p> 4.安装 hexo-deployer-git </p>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+   <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>
 
 
 
-<p>5.选择自己喜欢的主题 以 <a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank" rel="noopener">ayer</a> 主题为例，下载并配置好主题</p>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone https://github.com/Shen-Yu/hexo-theme-ayer.git themes/ayer</span><br></pre></td></tr></table></figure>
 
-
-
-<p>6.生产部署</p>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>
-
-
-
-<p><strong>4.可以访问自己的博客</strong></p>
-<p><a href="https://www.wikiking.cn/" target="_blank" rel="noopener">我的博客</a></p>
+<p><strong>4.可以访问<a href="https://www.wikiking.cn/" target="_blank" rel="noopener">我的博客</a></strong></p>
 
       
       <!-- reward -->
