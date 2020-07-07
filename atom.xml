@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://vagrant2046.github.io/"/>
-  <updated>2020-07-04T15:40:43.113Z</updated>
+  <updated>2020-07-07T15:05:53.255Z</updated>
   <id>https://vagrant2046.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日总结</title>
+    <link href="https://vagrant2046.github.io/2020/07/04/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://vagrant2046.github.io/2020/07/04/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <published>2020-07-04T15:26:29.000Z</published>
+    <updated>2020-07-07T15:05:53.255Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;2020-07-06今日总结&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.运动 ：2.32km 8’15&lt;/p&gt;
+&lt;p&gt;2.阅读
+        
+      
+    
+    </summary>
+    
+    
+      <category term="每日总结" scheme="https://vagrant2046.github.io/categories/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    
+    
+      <category term="总结" scheme="https://vagrant2046.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
   
   <entry>
     <title>《自控力》读书笔记</title>
@@ -40,35 +69,6 @@
     
     
       <category term="笔记" scheme="https://vagrant2046.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日总结</title>
-    <link href="https://vagrant2046.github.io/2020/07/04/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>https://vagrant2046.github.io/2020/07/04/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93/</id>
-    <published>2020-07-04T15:26:29.000Z</published>
-    <updated>2020-07-07T15:04:18.358Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;2020-07-06今日总结&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1.运动 ：2.32km 8’15&lt;/p&gt;
-&lt;p&gt;2.阅读
-        
-      
-    
-    </summary>
-    
-    
-      <category term="每日总结" scheme="https://vagrant2046.github.io/categories/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    
-    
-      <category term="总结" scheme="https://vagrant2046.github.io/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
