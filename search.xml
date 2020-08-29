@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>每日总结</title>
-    <url>/2020/07/04/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<p><strong>2020-07-08今日总结</strong></p>
-<p>1.运动 ：40个上下端10个俯卧撑</p>
-<p>2.阅读 ：《自控力》第三章</p>
-<p>3.作息：  23点30分睡觉+冥想5分钟</p>
-<p>4.记账</p>
-<p><strong>2020-07-07今日总结</strong></p>
-<p>1.运动 ：2.32km 8’15</p>
-<p>2.阅读 ：无</p>
-<p>3.作息：</p>
-<p>4.记账</p>
-<p><strong>2020-07-06今日总结</strong></p>
-<p>1.运动 ：40个上下端10个俯卧撑</p>
-<p>2.阅读 ：无</p>
-<p>3.作息：</p>
-<p>4.记账</p>
-<p><strong>2020-07-05今日总结</strong></p>
-<p>1.运动 ：30个上下端10个俯卧撑</p>
-<p>2.阅读 ：《自控力》第二章</p>
-<p>3.作息：23点睡觉冥想5分钟</p>
-<p>4.记账</p>
-<p><strong>2020-07-04今日总结</strong></p>
-<p><strong>1.运动</strong>  2.63km 8’44</p>
-<p><strong>2.阅读计划</strong>《自控力》第一章</p>
-<p><strong>3.调整生活作息，使用手机专注时间以及开始每天冥想</strong></p>
-<p><strong>4.保持每天记账习惯</strong></p>
-]]></content>
-      <categories>
-        <category>每日总结</category>
-      </categories>
-      <tags>
-        <tag>总结</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《自控力》读书笔记</title>
-    <url>/2020/07/04/%E3%80%8A%E8%87%AA%E6%8E%A7%E5%8A%9B%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p><img src="https://i.loli.net/2020/07/04/wykhH75cGWjCuV3.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>读书笔记</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo + github page 部署博客</title>
     <url>/2020/03/22/hexo-+-github-page-%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%20-%20%E5%89%AF%E6%9C%AC/</url>
     <content><![CDATA[<p><strong>1.部署博客前的准备工作</strong></p>
