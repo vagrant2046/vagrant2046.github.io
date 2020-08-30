@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>《百年孤独》读后感</title>
+    <url>/2020/08/29/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC%E8%AF%BB%E5%90%8E%E6%84%9F/</url>
+    <content><![CDATA[<blockquote>
+<p>多年以后，面对行刑队，奥雷里亚诺·布恩迪亚上校将会回想起父亲带他去见识冰块的那个遥远的下午…</p>
+</blockquote>
+<p>​    《百年孤独》魔幻现实主义文学的代表作，嗯，这本书其实17年已经被我买来放在书架上了，真是买书如山倒…</p>
+<p>​     坦白说这是我近几年来花最多时间去读的一本书，前前后后大概花了一个多月。其实看到前面大概四分之一时候发现布恩迪亚家族那类似的名字折腾得我晕头转向，于是有干脆又从头重新看了一遍。</p>
+<p>​    本书讲了从第一代布恩迪亚到第七代布恩迪亚之间，这个家族长达一个世纪的历史。一代一代的人，每一个都有自己的性格也都有自己的命运。本书自始至终的情节都被“孤独”这条内线牵引着。这里的孤独，是一个家族令代代抓狂的窒息孤独，它是深入骨髓，难以扭转的；它是荒诞滑稽的，因为它毫无根由；它是沉重悲壮的，因为承载它的是一部血与泪交融的家族史。</p>
+<blockquote>
+<p>家族中的第一个人被绑在树上，最后一个人正在被蚂蚁吃掉</p>
+</blockquote>
+<p>​    如果想更好的理解本书可能需要去了解一下拉丁美洲的历史进程，南美洲的国家和人们的战争与生活，贫瘠与富足，以及由于性欲，人与人之间的缺乏交流造成了百年孤独中令人窒息的孤独，而综上所述的一切全部包含在马孔多的开发与被飓风抹去之间布恩迪亚家族兴衰的百年传奇中。</p>
+<p><img src="https://i.loli.net/2020/08/30/KcIP3GNdJmtnFOR.jpg" alt="百年孤独人物关系图"></p>
+]]></content>
+      <categories>
+        <category>读后感</category>
+      </categories>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hexo + github page 部署博客</title>
-    <url>/2020/03/22/hexo-+-github-page-%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%20-%20%E5%89%AF%E6%9C%AC/</url>
+    <url>/2020/03/22/hexo-+-github-page-%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC/</url>
     <content><![CDATA[<p><strong>1.部署博客前的准备工作</strong></p>
 <ol>
 <li>安装 <a href="https://nodejs.org/" target="_blank" rel="noopener">Node.js</a> </li>
